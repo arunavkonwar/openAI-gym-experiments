@@ -8,4 +8,5 @@ More on [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_lea
 
 The repository presently contains the following files:
 * **Q-table-frozen-lake.ipynb** Q-Table algorithm that solves the FrozenLake problem
+* **Q-network-frozen-lake.ipynb** Q-Network algorithm that utilizes deep neural network and solves the FrozenLake problem
 
